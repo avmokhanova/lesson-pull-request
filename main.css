@@ -22,22 +22,21 @@
     padding: 100px;
     text-align: center;
     font-family: sans-serif;
-    font-size: 48px;
+    font-size: 50px;
     font-weight: 700;
     background-color: lightslategray;
     color: #fff;
 }
-
-.footer__menu li{
-    margin-bottom: 30px;
+.footer ul{
+    display: flex;
     font-size: 20px;
+    margin-bottom: 30px;
 }
 
-.footer__menu li:last-child{
+.footer ul:last-child{
     margin-bottom: 0;
 }
 
-.footer__menu a {
+.footer a {
     text-decoration: none;
 }
-
