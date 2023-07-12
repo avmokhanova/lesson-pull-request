@@ -27,3 +27,17 @@
     background-color: lightslategray;
     color: #fff;
 }
+
+.footer__menu li{
+    margin-bottom: 30px;
+    font-size: 20px;
+}
+
+.footer__menu li:last-child{
+    margin-bottom: 0;
+}
+
+.footer__menu a {
+    text-decoration: none;
+}
+
